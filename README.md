@@ -1,5 +1,7 @@
 # hugo-theme-demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 收集并展示一些开源 Hugo 主题。
 
 ## memE
@@ -42,4 +44,7 @@
 
 类似的还有 [feelit](https://feelit.khusika.dev/zh-cn/theme-documentation-content/)、[fixit](https://fixit.lruihao.cn/)
 
+## License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
 
